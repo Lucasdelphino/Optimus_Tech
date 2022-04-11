@@ -258,3 +258,39 @@ align-self: stretch;
 flex-grow: 0;
 margin: 8px 0px;
 }
+
+.subtitulo2{
+    color: #8e2424;
+    display: flex;
+    background: rgb(255, 225, 225);
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2;
+}
+
+.titulo2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+.paragrafo2{
+    display: flex;
+    justify-content: space-around;
+    color: #667085;
+    font-size: 25px;
+}
+
+.imagem{
+    width: 1520px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
